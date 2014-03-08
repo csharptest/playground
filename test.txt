@@ -1,6 +1,2 @@
 hello
-I am on bar 
 
-foo - hello2
-Whats
-Up?
